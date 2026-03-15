@@ -20,6 +20,8 @@ pip install qrcode[pil]
 
 ```bash
 python generator.py
+# or
+python3 generator.py
 ```
 
 The QR code will be saved as `qr.png` in the same directory.
